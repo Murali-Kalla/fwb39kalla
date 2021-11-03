@@ -16,5 +16,14 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Muralidhar Reddy Kalla",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murali-Kalla/fwb39kalla.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Murali-Kalla/fwb39kalla/issues"
+  },
+  "homepage": "https://github.com/Murali-Kalla/fwb39kalla#readme"
 }
